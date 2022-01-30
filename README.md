@@ -23,10 +23,22 @@ PSNR (peak signal to noise ratio) are given in the file []().
 
 ## How to use the code
 
-### Step 1
+### step 1 
 
 
+File 'MCF_TBD_xxx.py' implements the algorithm of MKCF-TBD.
 
+File 'DP_TBD_Grossi_ETTsim_xxx.py' implements MSAR-TBD mentioned in the paper.
+
+File 'DP_TBD_LELR_ETTsim_xxx.py' implements WTSA-TBD mentioned in the paper.
+
+File 'cfar_segmentation_xxx.py' implements the CFAR and Segmentation pre-processing.
+
+File 'MCF_GROSS_LELR_Simulation_rayleigh_xxx.py' runs the three trackers in Rayleigh distributed sea clutter.
+
+File 'MCF_GROSS_LELR_Simulation_K_xxx.py' runs the three trackers in K distributed sea clutter.
+
+Run the last two files will see the simulation results.
 ## Reference:
 [[Zhou et al., 2019]](https://ieeexplore.ieee.org/document/8718392)
 Yi Zhou, Tian Wang, Ronghua Hu, Hang Su, Yi Liu, 
