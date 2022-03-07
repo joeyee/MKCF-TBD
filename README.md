@@ -2,7 +2,7 @@
 
 ![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)   
 This is the **python** implementation of the - 
-[Multiple Kernelized Correlation Filters based Track-Before-Detect Algorithm for Tracking Weak and Extended Target in Marine Radar Systems](https://).
+[Multiple Kernelized Correlation Filters based Track-Before-Detect Algorithm for Tracking Weak and Extended Target in Marine Radar Systems](https://ieeexplore.ieee.org/document/9709567).
 
 <!---[Source paper](https://) of the preprint version.--->
 
@@ -39,7 +39,16 @@ File 'MCF_GROSS_LELR_Simulation_rayleigh_xxx.py' runs the three trackers in Rayl
 File 'MCF_GROSS_LELR_Simulation_K_xxx.py' runs the three trackers in K distributed sea clutter.
 
 Run the last two files will see the simulation results.
+
+If you find these codes are useful to your research, please cite our MKCF-TBD paper [[Zhou et al., 2022]](https://ieeexplore.ieee.org/document/9709567).
 ## Reference:
+
+[[Zhou et al., 2022]](https://ieeexplore.ieee.org/document/9709567)
+Yi Zhou, Hang Su, Tian Shuai, Xiaoming Liu, Jidong Suo, 
+Multiple Kernelized Correlation Filters based Track-Before-Detect Algorithm for Tracking Weak and Extended Target in Marine Radar Systems,
+ IEEE Transactions on Aerospace and Electronic Systems, 2022.
+
+
 [[Zhou et al., 2019]](https://ieeexplore.ieee.org/document/8718392)
 Yi Zhou, Tian Wang, Ronghua Hu, Hang Su, Yi Liu, 
 Xiaoming Liu, Jidong Suo, Hichem Snoussi, 
